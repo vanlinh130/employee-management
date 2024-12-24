@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'           # Framework MVC nhẹ
+gem 'activerecord'      # ORM
+gem 'mysql2'            # Kết nối MySQL
+gem 'sinatra-contrib'   # Hỗ trợ thêm cho Sinatra
